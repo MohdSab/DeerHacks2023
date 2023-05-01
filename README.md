@@ -1,5 +1,5 @@
 # Flatter.tech 
-Generates a tailor made compliment based on the features of the user. 
+Generates a tailor made compliment based on the features of the user. Overall, compliments can be a simple yet powerful way to improve mental health and promote well-being. By focusing on the positive and expressing appreciation for others, we can create a more supportive and uplifting environment for ourselves and those around us.
 
 Front-end is done through HTML, JS, and CSS to handle the client connection and communicate with the server. The webpage has a dynamic window showing a video feed, when prompter it takes a screenshot and sends it via HTTP protocol to the Back-end server.
 
